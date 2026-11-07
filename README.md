@@ -73,11 +73,7 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 7. The motor is switched off using DPST switch 1 after bringing all the rheostats to their initial positions.
 
-## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
-
-**Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
 ## SIMULATION USING VIRTUAL LAB (IIT ROORKEE)
 
@@ -85,15 +81,14 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="962" height="680" alt="stimulator 1" src="https://github.com/user-attachments/assets/98108cd0-6337-4f41-a279-766957c8081f" />
 
-**Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1035" height="725" alt="stumilator 1" src="https://github.com/user-attachments/assets/d44e2f28-a794-406d-8115-04a9e43568dd" />
 
-**Figure 3:** Virtual Lab simulation – load test
+
 
 ## TABULATION
 
