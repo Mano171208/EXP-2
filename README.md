@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | MANO G | **Reg. No.:** | 26009838 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 07/11/2026 | **Batch / Section:** | |
 
 ---
 
