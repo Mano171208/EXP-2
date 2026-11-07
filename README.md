@@ -129,7 +129,7 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 <img width="453" height="201" alt="Model Graph 1" src="https://github.com/user-attachments/assets/783e2443-896f-4c49-9c26-c9afb5c57afc" />
 
 
-### B. Load characteristics (IL vs VL)
+### B. Load characteristics 
 
 <img width="638" height="202" alt="Model Graph 2" src="https://github.com/user-attachments/assets/22f7313c-b940-4c94-afea-6710eccfae99" />
 
